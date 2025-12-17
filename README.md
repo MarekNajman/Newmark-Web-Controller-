@@ -4,11 +4,8 @@ Newmark GM-12-1 Series Gimbal
 Newmark NSC-G Series controller (Board: Galil Motion Control DMC-2122)
 
 
-How to run:
+Run dev:
 - npm install
--  optionally set environment vars:
-   CONTROLLER_IP (default 192.168.42.93)
-   CONTROLLER_PORT (default 23)
+- npx vite install 
 - npm start
-- open http://localhost:3000/static/index.html
-
+http://localhost:3000
